@@ -1,2 +1,2 @@
 # M-Perpus
-M-Perpus (Library Information System with SMS Gateway), First PHP Project
+M-Perpus (Library Information System with Gammu SMS Gateway), First PHP Project
